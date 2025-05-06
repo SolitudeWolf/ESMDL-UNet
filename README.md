@@ -1,6 +1,4 @@
 # Lightweight UNet with Multi-module Synergy and Dual-domain Attention for Precise Skin Lesion Segmentation
-<<<<<<< HEAD
-liling
 =======
 This is the official code repository for "Lightweight UNet with Multi-module Synergy and Dual-domain Attention for Precise Skin Lesion Segmentation". The journal name "The Visual Computer".
 
