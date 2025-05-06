@@ -1,8 +1,8 @@
-# ESMDL-UNet
+# Lightweight UNet with Multi-module Synergy and Dual-domain Attention for Precise Skin Lesion Segmentation
 <<<<<<< HEAD
 liling
 =======
-This is the official code repository for "ESMDL-UNet: Enhanced Skin Lesion Segmentation via Multi-module Collaboration and Dual-domain Attention in a Lightweight UNet Framework".
+This is the official code repository for "Lightweight UNet with Multi-module Synergy and Dual-domain Attention for Precise Skin Lesion Segmentation". The journal name "The Visual Computer".
 
 **0. Main Environments**
 - python 3.9
