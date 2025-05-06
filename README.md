@@ -33,7 +33,8 @@
 ## 4. Module decompression.
 
 - Unpack the SwinT module in the modules file first.
-- Update your file paths, including input and output paths
+- Update your file paths, including input and output paths in config_setting.py. This method trains the dataset once and requires removing the batch training method set in the train.py file.
+- This work uses batch training with the option to modify the storage path in the train.py file.
 
 ## 5. Train the ESMDL-UNet.
 ```
