@@ -169,6 +169,7 @@ def main(config):
     plt.show()
 
 if __name__ == '__main__':
+    # Batch training method
     param_combinations = [
         {'batch_size': 8, 'epochs': 300, 'order': 1},
         {'batch_size': 8, 'epochs': 300, 'order': 2},
