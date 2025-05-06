@@ -46,5 +46,6 @@ python train.py
 **6. Obtain the outputs.**
 - After trianing, you could obtain the outputs in './results/'
 
-
+**7. Visualization.**
+<img src="./img/duibi.jpg">
 >>>>>>> 7a6a448 (first commit)
